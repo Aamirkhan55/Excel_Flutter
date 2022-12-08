@@ -1,4 +1,4 @@
-# excelflutter_app
+# Excelflutter_app
 
 A new Flutter project.
 
